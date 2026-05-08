@@ -7,6 +7,8 @@ The source data originated from **SAP**, where business requirements were transl
 
 I served in a dual role as **Data Engineer** and **Project Manager**, handling both the technical ETL delivery and overall project management from initiation to completion.
 
+![Workflow](https://github.com/rinoyaohari/Data-Engineer---SSIS---Project-at-Toyota-Boshoku-Indonesia/blob/aa5c81cf9536d1cd38490d00fd1aaf4ffb3c6f2f/Workflow.jpg)
+
 ---
 
 # Responsibilities
