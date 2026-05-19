@@ -76,3 +76,9 @@ I served in a dual role as **Data Engineer** and **Project Manager**, handling b
 # Project Workflow
 
 ---
+Control Flow used on this project
+![CFlow](https://github.com/rinoyaohari/Data-Engineer---SSIS---Project-at-Toyota-Boshoku-Indonesia/blob/9955c15cf328ed8bff74af1b39df8761d2ecda68/CFlow.jpg)
+
+With Data Flow used on this project
+![DFlow](https://github.com/rinoyaohari/Data-Engineer---SSIS---Project-at-Toyota-Boshoku-Indonesia/blob/9955c15cf328ed8bff74af1b39df8761d2ecda68/DFlow.jpg)
+
